@@ -11,3 +11,4 @@ To improve the earthquake map, the location of the tectonic plates as well as al
 * Mapbox API
 
 ## Results
+![challenge_img.png](https://github.com/daniel-sh-au/UofT_DataBC_Module13_Mapping_Earthquakes/blob/main/challenge_img.png)
