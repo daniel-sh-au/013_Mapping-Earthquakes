@@ -11,5 +11,5 @@ To improve the earthquake map, the location of the tectonic plates as well as al
 * Mapbox API
 
 ## Results
-Code: (challenge_logic.js)[https://github.com/daniel-sh-au/UofT_DataBC_Module13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js], (index.html)[https://github.com/daniel-sh-au/UofT_DataBC_Module13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html]
+Code: [challenge_logic.js](https://github.com/daniel-sh-au/UofT_DataBC_Module13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js), [index.html](https://github.com/daniel-sh-au/UofT_DataBC_Module13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
 ![challenge_img.png](https://github.com/daniel-sh-au/UofT_DataBC_Module13_Mapping_Earthquakes/blob/main/challenge_img.png)
